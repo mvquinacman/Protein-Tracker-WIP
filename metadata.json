@@ -1,0 +1,6 @@
+{
+  "name": "Protein Tracker",
+  "description": "Track protein intake using your camera to automatically detect food nutrition, with a weekly summary dashboard and target reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
